@@ -52,7 +52,9 @@ status.md
 +t1mapp/+util/hex2rgb.m
 +t1mapp/+util/imagePosition.m
 +t1mapp/+util/lipariColorMap.m
++t1mapp/+util/maskElement.m
 +t1mapp/+util/patientPosition.m
++t1mapp/+util/pixelSize.m
 +t1mapp/+util/resourcePath.m
 +t1mapp/+util/rgb2hex.m
 +t1mapp/+util/robustDisplayMax.m
