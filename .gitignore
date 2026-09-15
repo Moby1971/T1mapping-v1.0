@@ -1,0 +1,8 @@
+.DS_Store
+.gitattributes
+T1mapp.prj
+T1mapp/
+T1mapp_resources/
+backup/
+status.md
+/tests
