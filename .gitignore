@@ -21,6 +21,7 @@ status.md
 +t1mapp/+fit/vfaFit.m
 +t1mapp/+io/classifyAcquisition.m
 +t1mapp/+io/defaultSettings.m
++t1mapp/+io/exportBidsFcn.m
 +t1mapp/+io/exportDicomT1.m
 +t1mapp/+io/exportDicomT1dcm.m
 +t1mapp/+io/exportGifT1.m
@@ -33,6 +34,9 @@ status.md
 +t1mapp/+io/shapeKspace.m
 +t1mapp/+io/sortSegmentedKspace.m
 +t1mapp/+io/userFolder.m
++t1mapp/+reco/voxelSizeOf.m
++t1mapp/+reco/mppcaWindow.m
++t1mapp/+reco/mppcaDenoise.m
 +t1mapp/+reco/CSreco.m
 +t1mapp/+reco/PCAdenoise.m
 +t1mapp/+reco/circtukey2D.m
