@@ -38,6 +38,7 @@ status.md
 +t1mapp/+reco/mppcaWindow.m
 +t1mapp/+reco/mppcaDenoise.m
 +t1mapp/+reco/CSreco.m
++t1mapp/+reco/llrBlockSize.m
 +t1mapp/+reco/PCAdenoise.m
 +t1mapp/+reco/circtukey2D.m
 +t1mapp/+reco/circtukey3D.m
@@ -114,3 +115,4 @@ gui/adapters/gatherFitParams.m
 gui/adapters/gatherImportParams.m
 gui/adapters/gatherRecoParams.m
 gui/adapters/gatherRegParams.m
+manual/T1mapp - manual.pages
