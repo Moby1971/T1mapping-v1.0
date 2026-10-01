@@ -54,6 +54,7 @@ status.md
 +t1mapp/+util/bartVersionAtLeast.m
 +t1mapp/+util/dicomOrientation.m
 +t1mapp/+util/elastixBundle.m
++t1mapp/+util/scanNumber.m
 +t1mapp/+util/hex2rgb.m
 +t1mapp/+util/imagePosition.m
 +t1mapp/+util/lipariColorMap.m
